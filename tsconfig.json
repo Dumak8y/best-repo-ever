@@ -10,8 +10,9 @@
   "include": [
     "src/**/*",
     "**/*.tsx",
-    "**/*.ts"
-  ],
+    "**/*.ts",
+    "*.jfif"
+, "public/img"  ],
   "exclude": [
     "node_modules"
   ]
